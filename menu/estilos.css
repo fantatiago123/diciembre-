@@ -1,0 +1,30 @@
+.comida {
+    width: 100%;
+    margin: 5%;
+    border-radius: 66%;
+    color: black;
+
+}
+
+body {
+    text-align: center;
+    color: aqua;
+    background-image: url(/menu/imagenes/fondo.jpeg);
+
+}
+
+.precio {
+    color: blueviolet;
+
+
+}
+
+
+p {
+    font-weight: 600;
+}
+
+.container {
+    /*  margin: 10px;*/
+    margin-top: 10px;
+}
